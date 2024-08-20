@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/05/18 16:11:46.000.249,=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/05/18 16:11:46.000.232,=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/05/18 16:12:58.000.643,=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/05/18 16:12:58.000.660,=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/07/25 18:41:31.000.019,=C:\Users\USUARIO\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/07/25 18:41:31.000.039,=C:\Users\USUARIO\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/08/19 22:48:30.000.495,=C:\Users\USUARIO\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/08/19 22:48:30.000.081,=C:\Users\USUARIO\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/08/19 22:49:06.000.886,D:\CARRERA DE SISTEMAS\2024-2\INF220\ProyectoTDA\Unit1.cpp=C:\Users\USUARIO\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/08/19 22:49:06.000.886,D:\CARRERA DE SISTEMAS\2024-2\INF220\ProyectoTDA\Unit1.h=C:\Users\USUARIO\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024/08/19 22:49:06.000.872,D:\CARRERA DE SISTEMAS\2024-2\INF220\ProyectoTDA\ProjectTDAPCH1.h=C:\Users\USUARIO\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/08/19 22:49:06.000.886,D:\CARRERA DE SISTEMAS\2024-2\INF220\ProyectoTDA\Unit1.dfm=C:\Users\USUARIO\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/08/19 22:49:06.000.908,D:\CARRERA DE SISTEMAS\2024-2\INF220\ProyectoTDA\ProjectTDA.cbproj=C:\Users\USUARIO\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2024/08/19 22:49:19.000.054,D:\CARRERA DE SISTEMAS\2024-2\INF220\ProyectoTDA\uFPrincipal.h=D:\CARRERA DE SISTEMAS\2024-2\INF220\ProyectoTDA\Unit1.h</Transaction>
+    <Transaction>2024/08/19 22:49:19.000.054,D:\CARRERA DE SISTEMAS\2024-2\INF220\ProyectoTDA\uFPrincipal.cpp=D:\CARRERA DE SISTEMAS\2024-2\INF220\ProyectoTDA\Unit1.cpp</Transaction>
+    <Transaction>2024/08/19 22:49:19.000.054,D:\CARRERA DE SISTEMAS\2024-2\INF220\ProyectoTDA\uFPrincipal.dfm=D:\CARRERA DE SISTEMAS\2024-2\INF220\ProyectoTDA\Unit1.dfm</Transaction>
+    <Transaction>2024/08/19 22:49:57.000.845,=D:\CARRERA DE SISTEMAS\2024-2\INF220\ProyectoTDA\Unit1.cpp</Transaction>
+    <Transaction>2024/08/19 22:50:12.000.641,D:\CARRERA DE SISTEMAS\2024-2\INF220\ProyectoTDA\uCSMemoria.h=D:\CARRERA DE SISTEMAS\2024-2\INF220\ProyectoTDA\Unit1.h</Transaction>
+    <Transaction>2024/08/19 22:50:12.000.641,D:\CARRERA DE SISTEMAS\2024-2\INF220\ProyectoTDA\uCSMemoria.cpp=D:\CARRERA DE SISTEMAS\2024-2\INF220\ProyectoTDA\Unit1.cpp</Transaction>
+    <Transaction>2024/08/19 23:56:24.000.201,D:\CARRERA DE SISTEMAS\2024-2\INF220\ProyectoTDA\uCSMemoria.h=D:\CARRERA DE SISTEMAS\2024-2\INF220\ProyectoTDA\uTCSMemoria.h</Transaction>
+    <Transaction>2024/08/19 23:56:24.000.201,D:\CARRERA DE SISTEMAS\2024-2\INF220\ProyectoTDA\uCSMemoria.cpp=D:\CARRERA DE SISTEMAS\2024-2\INF220\ProyectoTDA\uTCSMemoria.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
